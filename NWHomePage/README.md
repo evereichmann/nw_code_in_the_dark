@@ -2,7 +2,7 @@
 
 ## Northwestern Search Page Exercise
 
-![htmlformate](../src/NWSearchPage.png)
+![htmlformate](./src/NWSearchPage.png)
 
 
 
