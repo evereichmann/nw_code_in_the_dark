@@ -1,0 +1,115 @@
+body {
+    margin: 0px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width:100%;
+}
+
+h1, h2, h3, h4, h5, h6, p, li {
+    color: white;
+    margin-left: 80px;
+} 
+
+form {
+    padding-top: 75px;
+    margin-left: 80px;
+}
+
+input{
+    height: 45px;
+    width: 50%;
+}
+
+button {
+    background-color: #4e2a84; 
+    padding: 10px;
+    border: none;
+    vertical-align: middle;
+}
+
+img {
+    vertical-align: middle;
+}
+
+#main {
+    background-color: rgb(056, 023, 090);
+    margin: 0px;
+    padding: 1px;
+    display:block;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+#secondary, h3, h4, h5, h6, p, li{
+    font-family: 'Roboto';
+}
+
+#secondary {
+    background-color: #4e2a84; 
+    margin: 0px;
+    padding: 20px 10px;
+    padding-left: 10px;
+    display:block;
+}
+
+#search-tips{
+    color: #4e2a84;
+    margin-left: 80px;
+}
+
+#leftbox { 
+    background-color: #4e2a84; 
+    float:left;  
+    width:33.33333%; 
+    height: 270px; 
+} 
+#middlebox{ 
+    background-color: #4e2a84; 
+    float:left;  
+    width:33.3333333%; 
+    height:270px; 
+} 
+#rightbox{ 
+    background-color: #4e2a84; 
+    float:right; 
+    width:33.33333%; 
+    height:270px; 
+} 
+
+.number {
+    margin-left: 100px;
+}
+
+#social-nav, #social-icons, #disclamer, #copyright, li {
+    display: inline;
+    list-style-type: none;
+    vertical-align: middle;
+    margin: 5px;
+}
+
+#copyright{
+    padding: 0px;
+    margin: 0px;
+    margin-left: 80px;
+}
+
+#social-icons {
+    vertical-align: bottom;
+    padding: 0px;
+    margin: 0px;
+}
+
+#disclamer {
+    float: right;
+    margin-right: 60px;
+}
+
+#social-nav{
+    background-color: rgb(056, 023, 090);
+    margin: 0px;
+    padding: 10px;
+    display:block;
+}
+
